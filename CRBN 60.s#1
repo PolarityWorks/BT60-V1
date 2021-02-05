@@ -15857,8 +15857,8 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 <instance part="SUPPLY18" gate="G$1" x="-63.5" y="233.68" smashed="yes">
 <attribute name="VALUE" x="-63.5" y="236.474" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="GND32" gate="1" x="-60.96" y="220.98" smashed="yes">
-<attribute name="VALUE" x="-60.96" y="220.726" size="1.778" layer="96" align="top-center"/>
+<instance part="GND32" gate="1" x="-73.66" y="223.52" smashed="yes">
+<attribute name="VALUE" x="-73.66" y="223.266" size="1.778" layer="96" align="top-center"/>
 </instance>
 <instance part="GND33" gate="1" x="-58.42" y="190.5" smashed="yes">
 <attribute name="VALUE" x="-58.42" y="190.246" size="1.778" layer="96" align="top-center"/>
@@ -16689,6 +16689,7 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 <pinref part="IC3" gate="G$1" pin="P1.06"/>
 <wire x1="-71.12" y1="144.78" x2="-71.12" y2="200.66" width="0.1524" layer="91"/>
 <wire x1="-71.12" y1="200.66" x2="-48.26" y2="200.66" width="0.1524" layer="91"/>
+<junction x="83.82" y="116.84"/>
 </segment>
 </net>
 <net name="COL4" class="0">
@@ -16951,6 +16952,7 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 <pinref part="IC3" gate="G$1" pin="P1.09"/>
 <wire x1="40.64" y1="170.18" x2="40.64" y2="233.68" width="0.1524" layer="91"/>
 <wire x1="40.64" y1="233.68" x2="-2.54" y2="233.68" width="0.1524" layer="91"/>
+<junction x="416.56" y="116.84"/>
 </segment>
 </net>
 <net name="N$72" class="0">
@@ -17039,7 +17041,7 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 </segment>
 <segment>
 <pinref part="IC3" gate="G$1" pin="GND2"/>
-<wire x1="-48.26" y1="223.52" x2="-60.96" y2="223.52" width="0.1524" layer="91"/>
+<wire x1="-48.26" y1="223.52" x2="-73.66" y2="226.06" width="0.1524" layer="91"/>
 <pinref part="GND32" gate="1" pin="GND"/>
 </segment>
 <segment>
@@ -17430,6 +17432,81 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="104,1,-271.78,177.8,U2,VIN,N$81,,,"/>
+<approved hash="104,1,-246.38,177.8,U2,VOUT,VDD_NRF,,,"/>
+<approved hash="106,1,-20.32,167.64,POWER_PIN,,,,,"/>
+<approved hash="106,1,-33.02,167.64,RXD,,,,,"/>
+<approved hash="106,1,-30.48,167.64,TXD,,,,,"/>
+<approved hash="113,1,35.56,116.84,U$1,,,,,"/>
+<approved hash="113,1,63.5,116.84,U$2,,,,,"/>
+<approved hash="113,1,93.98,116.84,U$3,,,,,"/>
+<approved hash="113,1,121.92,116.84,U$4,,,,,"/>
+<approved hash="113,1,152.4,116.84,U$5,,,,,"/>
+<approved hash="113,1,182.88,116.84,U$6,,,,,"/>
+<approved hash="113,1,213.36,116.84,U$7,,,,,"/>
+<approved hash="113,1,243.84,116.84,U$8,,,,,"/>
+<approved hash="113,1,274.32,116.84,U$9,,,,,"/>
+<approved hash="113,1,304.8,116.84,U$10,,,,,"/>
+<approved hash="113,1,335.28,116.84,U$11,,,,,"/>
+<approved hash="113,1,365.76,116.84,U$12,,,,,"/>
+<approved hash="113,1,396.24,116.84,U$13,,,,,"/>
+<approved hash="113,1,426.72,116.84,U$14,,,,,"/>
+<approved hash="113,1,40.64,91.44,U$15,,,,,"/>
+<approved hash="113,1,71.12,91.44,U$16,,,,,"/>
+<approved hash="113,1,101.6,91.44,U$17,,,,,"/>
+<approved hash="113,1,129.54,91.44,U$18,,,,,"/>
+<approved hash="113,1,160.02,91.44,U$19,,,,,"/>
+<approved hash="113,1,190.5,91.44,U$20,,,,,"/>
+<approved hash="113,1,220.98,91.44,U$21,,,,,"/>
+<approved hash="113,1,251.46,91.44,U$22,,,,,"/>
+<approved hash="113,1,281.94,91.44,U$23,,,,,"/>
+<approved hash="113,1,312.42,91.44,U$24,,,,,"/>
+<approved hash="113,1,342.9,91.44,U$25,,,,,"/>
+<approved hash="113,1,373.38,91.44,U$26,,,,,"/>
+<approved hash="113,1,403.86,91.44,U$27,,,,,"/>
+<approved hash="113,1,426.72,91.44,U$28,,,,,"/>
+<approved hash="113,1,43.18,68.58,U$29,,,,,"/>
+<approved hash="113,1,73.66,68.58,U$30,,,,,"/>
+<approved hash="113,1,104.14,68.58,U$31,,,,,"/>
+<approved hash="113,1,132.08,68.58,U$32,,,,,"/>
+<approved hash="113,1,162.56,68.58,U$33,,,,,"/>
+<approved hash="113,1,193.04,68.58,U$34,,,,,"/>
+<approved hash="113,1,223.52,68.58,U$35,,,,,"/>
+<approved hash="113,1,254,68.58,U$36,,,,,"/>
+<approved hash="113,1,284.48,68.58,U$37,,,,,"/>
+<approved hash="113,1,314.96,68.58,U$38,,,,,"/>
+<approved hash="113,1,345.44,68.58,U$39,,,,,"/>
+<approved hash="113,1,375.92,68.58,U$40,,,,,"/>
+<approved hash="113,1,416.56,68.58,U$41,,,,,"/>
+<approved hash="113,1,48.26,45.72,U$42,,,,,"/>
+<approved hash="113,1,78.74,45.72,U$43,,,,,"/>
+<approved hash="113,1,109.22,45.72,U$44,,,,,"/>
+<approved hash="113,1,137.16,45.72,U$45,,,,,"/>
+<approved hash="113,1,167.64,45.72,U$46,,,,,"/>
+<approved hash="113,1,198.12,45.72,U$47,,,,,"/>
+<approved hash="113,1,228.6,45.72,U$48,,,,,"/>
+<approved hash="113,1,259.08,45.72,U$49,,,,,"/>
+<approved hash="113,1,289.56,45.72,U$50,,,,,"/>
+<approved hash="113,1,320.04,45.72,U$51,,,,,"/>
+<approved hash="113,1,350.52,45.72,U$52,,,,,"/>
+<approved hash="113,1,401.32,45.72,U$53,,,,,"/>
+<approved hash="113,1,40.64,22.86,U$54,,,,,"/>
+<approved hash="113,1,73.66,22.86,U$55,,,,,"/>
+<approved hash="113,1,109.22,22.86,U$56,,,,,"/>
+<approved hash="113,1,198.12,22.86,U$57,,,,,"/>
+<approved hash="113,1,307.34,22.86,U$58,,,,,"/>
+<approved hash="113,1,350.52,22.86,U$59,,,,,"/>
+<approved hash="113,1,388.62,22.86,U$60,,,,,"/>
+<approved hash="113,1,421.64,22.86,U$61,,,,,"/>
+<approved hash="113,1,-304.123,227.404,J3,,,,,"/>
+<approved hash="113,1,-207.01,239.082,LED2,,,,,"/>
+<approved hash="113,1,-175.486,292.337,CN2,,,,,"/>
+<approved hash="113,1,-175.423,281.263,J4,,,,,"/>
+<approved hash="113,1,-153.077,204.633,PROG1,,,,,"/>
+<approved hash="113,1,-115.57,236.542,LED1,,,,,"/>
+<approved hash="113,1,13.3773,181.447,J1,,,,,"/>
+</errors>
 </schematic>
 </drawing>
 <compatibility>

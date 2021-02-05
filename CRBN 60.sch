@@ -14217,130 +14217,132 @@ CONN_05
 <description>Imported from Altium Designer&amp;reg; library: HOLYIOT-18010-VER1.0-0.8MM.PcbLib</description>
 <packages>
 <package name="PCBCOMPONENT_1">
-<smd name="P0.13" x="10.936978125" y="4.783990625" dx="0.7" dy="0.999996875" layer="16" rot="R270"/>
-<smd name="P0.15" x="10.936978125" y="6.9839875" dx="0.7" dy="0.999996875" layer="16" rot="R270"/>
-<smd name="P0.14" x="10.936978125" y="5.8839875" dx="0.7" dy="0.999996875" layer="16" rot="R270"/>
-<smd name="P0.20" x="10.936978125" y="9.18400625" dx="0.6" dy="0.999996875" layer="16" rot="R270"/>
-<smd name="P1.05" x="10.936978125" y="11.383978125" dx="0.7" dy="0.999996875" layer="16" rot="R270"/>
-<smd name="P1.07" x="10.936978125" y="12.484" dx="0.7" dy="0.999996875" layer="16" rot="R270"/>
-<smd name="P0.24" x="10.936978125" y="10.28398125" dx="0.6" dy="0.999996875" layer="16" rot="R270"/>
-<smd name="P0.17" x="10.936978125" y="8.084009375" dx="0.7" dy="0.999996875" layer="16" rot="R270"/>
-<smd name="P0.26" x="2.436996875" y="3.68399375" dx="0.7" dy="0.999996875" layer="16" rot="R270"/>
-<smd name="P0.06" x="2.436996875" y="4.783990625" dx="0.7" dy="0.999996875" layer="16" rot="R270"/>
-<smd name="P0.27" x="2.436996875" y="6.9839875" dx="0.7" dy="0.999996875" layer="16" rot="R270"/>
-<smd name="P0.08" x="2.436996875" y="5.8839875" dx="0.7" dy="0.999996875" layer="16" rot="R270"/>
-<smd name="P0.11" x="2.436996875" y="9.18400625" dx="0.7" dy="0.999996875" layer="16" rot="R270"/>
-<smd name="P1.12" x="2.436996875" y="11.383978125" dx="0.7" dy="0.999996875" layer="16" rot="R270"/>
-<smd name="P1.14" x="2.436996875" y="12.484" dx="0.7" dy="0.999996875" layer="16" rot="R270"/>
-<smd name="P0.25" x="2.436996875" y="10.28398125" dx="0.7" dy="0.999996875" layer="16" rot="R270"/>
-<smd name="P1.08" x="2.436996875" y="8.084009375" dx="0.7" dy="0.999996875" layer="16" rot="R270"/>
-<smd name="GND1" x="13.037" y="1.483996875" dx="0.7" dy="0.899996875" layer="16" rot="R90"/>
-<smd name="P0.12" x="4.486978125" y="0.284" dx="0.7" dy="0.899996875" layer="16"/>
-<smd name="D-" x="11.086990625" y="0.284" dx="0.7" dy="0.899996875" layer="16"/>
-<smd name="P0.07" x="2.287009375" y="0.284" dx="0.7" dy="0.899996875" layer="16"/>
-<smd name="D+" x="12.1869875" y="0.284" dx="0.7" dy="0.899996875" layer="16"/>
-<smd name="VDD_NRF" x="1.186984375" y="0.284" dx="0.7" dy="0.899996875" layer="16"/>
-<smd name="P1.09" x="3.38698125" y="0.284" dx="0.7" dy="0.899996875" layer="16"/>
-<smd name="P0.22" x="13.037" y="2.583996875" dx="0.7" dy="0.899996875" layer="16" rot="R90"/>
-<smd name="P1.00" x="13.037" y="3.68399375" dx="0.7" dy="0.899996875" layer="16" rot="R90"/>
-<smd name="P1.03" x="13.037" y="4.783990625" dx="0.7" dy="0.899996875" layer="16" rot="R90"/>
-<smd name="P0.30" x="0.337" y="4.783990625" dx="0.7" dy="0.899996875" layer="16" rot="R270"/>
-<smd name="P0.04" x="0.337" y="2.583996875" dx="0.7" dy="0.899996875" layer="16" rot="R270"/>
-<smd name="P0.31" x="0.337" y="3.68399375" dx="0.7" dy="0.899996875" layer="16" rot="R270"/>
-<smd name="P0.05" x="0.337" y="1.483996875" dx="0.7" dy="0.899996875" layer="16" rot="R270"/>
-<smd name="P0.29" x="0.337" y="5.8839875" dx="0.7" dy="0.899996875" layer="16" rot="R270"/>
-<smd name="VBUS" x="9.98699375" y="0.284" dx="0.7" dy="0.899996875" layer="16"/>
-<smd name="P0.21" x="6.687" y="0.284" dx="0.7" dy="0.899996875" layer="16"/>
-<smd name="P0.23" x="5.586975" y="0.284" dx="0.7" dy="0.899996875" layer="16"/>
-<smd name="P0.18" x="8.88699375" y="0.284" dx="0.7" dy="0.899996875" layer="16"/>
-<smd name="P0.19" x="7.786996875" y="0.284" dx="0.7" dy="0.899996875" layer="16"/>
-<smd name="P0.09" x="13.037" y="12.484" dx="0.7" dy="0.899996875" layer="16" rot="R90"/>
-<smd name="P1.02" x="13.037" y="6.9839875" dx="0.7" dy="0.899996875" layer="16" rot="R90"/>
-<smd name="P1.01" x="13.037" y="5.8839875" dx="0.7" dy="0.899996875" layer="16" rot="R90"/>
-<smd name="SWDIO" x="13.037" y="9.18400625" dx="0.7" dy="0.899996875" layer="16" rot="R90"/>
-<smd name="P1.04" x="13.037" y="10.28398125" dx="0.7" dy="0.899996875" layer="16" rot="R90"/>
-<smd name="P1.06" x="13.037" y="11.383978125" dx="0.7" dy="0.899996875" layer="16" rot="R90"/>
-<smd name="SWDCLK" x="13.037" y="8.083984375" dx="0.7" dy="0.899996875" layer="16" rot="R90"/>
-<smd name="P0.02" x="0.337" y="8.083984375" dx="0.7" dy="0.899996875" layer="16" rot="R270"/>
-<smd name="P0.28" x="0.337" y="6.9839875" dx="0.7" dy="0.899996875" layer="16" rot="R270"/>
-<smd name="P1.15" x="0.337" y="10.28400625" dx="0.7" dy="0.899996875" layer="16" rot="R270"/>
-<smd name="P1.10" x="0.337" y="12.484" dx="0.7" dy="0.899996875" layer="16" rot="R270"/>
-<smd name="P1.11" x="0.337" y="13.584" dx="0.7" dy="0.899996875" layer="16" rot="R270"/>
-<smd name="P1.13" x="0.337" y="11.383978125" dx="0.7" dy="0.899996875" layer="16" rot="R270"/>
-<smd name="P0.03" x="0.337" y="9.18400625" dx="0.7" dy="0.899996875" layer="16" rot="R270"/>
-<smd name="P0.16" x="10.936978125" y="3.68399375" dx="0.7" dy="0.999996875" layer="16" rot="R270"/>
-<smd name="GND" x="0.337" y="14.683996875" dx="0.7" dy="0.899996875" layer="16" rot="R270"/>
-<smd name="GND2" x="13.037" y="14.683996875" dx="0.7" dy="0.899996875" layer="16" rot="R90"/>
-<smd name="P0.10" x="13.037" y="13.584" dx="0.7" dy="0.899996875" layer="16" rot="R90"/>
-<wire x1="-0.063" y1="17.983990625" x2="13.437" y2="17.983990625" width="0.127" layer="51"/>
-<wire x1="13.437" y1="-0.016" x2="13.437" y2="17.983990625" width="0.127" layer="51"/>
-<wire x1="-0.063" y1="-0.016" x2="13.437" y2="-0.016" width="0.127" layer="51"/>
-<wire x1="-0.063" y1="-0.016" x2="-0.063" y2="17.983990625" width="0.127" layer="51"/>
-<text x="10.942" y="16.989" size="0.55" layer="21">VER1.0</text>
-<text x="0.647" y="15.694" size="0.65" layer="21">HOLYIOT-18010-NRF52840</text>
-<text x="12.954" y="-2.54" size="1.016" layer="21">TOP VIEW</text>
-<text x="-2.15163125" y="14.41399375" size="0.5" layer="21" font="vector">GND</text>
-<text x="-2.921" y="12.319" size="0.5" layer="21" font="vector">P1.10</text>
-<text x="-2.921" y="13.335" size="0.5" layer="21" font="vector">P1.11</text>
-<text x="-2.901390625" y="11.132746875" size="0.5" layer="21" font="vector">P1.13</text>
-<text x="-2.901390625" y="10.038996875" size="0.5" layer="21" font="vector">P1.15</text>
-<text x="-3.068" y="8.945246875" size="0.5" layer="21" font="vector">P0.03</text>
-<text x="-3.068" y="7.851496875" size="0.5" layer="21" font="vector">P0.02</text>
-<text x="-3.068" y="6.75775" size="0.5" layer="21" font="vector">P0.28</text>
-<text x="-3.068" y="5.664" size="0.5" layer="21" font="vector">P0.29</text>
-<text x="-3.068" y="4.57025" size="0.5" layer="21" font="vector">P0.30</text>
-<text x="-2.9013875" y="3.4765" size="0.5" layer="21" font="vector">P0.31</text>
-<text x="-3.068" y="2.38275" size="0.5" layer="21" font="vector">P0.04</text>
-<text x="-3.068" y="1.289003125" size="0.5" layer="21" font="vector">P0.05</text>
-<text x="0.9845" y="-0.696" size="0.5" layer="21" font="vector" rot="R270">VDD_nRF</text>
-<text x="2.078246875" y="-0.696" size="0.5" layer="21" font="vector" rot="R270">P0.07</text>
-<text x="3.171996875" y="-0.695996875" size="0.5" layer="21" font="vector" rot="R270">P1.09</text>
-<text x="4.265746875" y="-0.696" size="0.5" layer="21" font="vector" rot="R270">P0.12</text>
-<text x="5.359496875" y="-0.696" size="0.5" layer="21" font="vector" rot="R270">P0.23</text>
-<text x="6.453246875" y="-0.696" size="0.5" layer="21" font="vector" rot="R270">P0.21</text>
-<text x="7.546996875" y="-0.695996875" size="0.5" layer="21" font="vector" rot="R270">P0.19</text>
-<text x="8.64074375" y="-0.696" size="0.5" layer="21" font="vector" rot="R270">P0.18/nRESET</text>
-<text x="9.73449375" y="-0.696" size="0.5" layer="21" font="vector" rot="R270">VBUS</text>
-<text x="10.82824375" y="-0.696" size="0.5" layer="21" font="vector" rot="R270">D-</text>
-<text x="11.92199375" y="-0.695996875" size="0.5" layer="21" font="vector" rot="R270">D+</text>
-<text x="14.097" y="1.244" size="0.5" layer="21" font="vector">GND</text>
-<text x="14.097" y="2.33775" size="0.5" layer="21" font="vector">P0.22</text>
-<text x="14.097" y="3.4315" size="0.5" layer="21" font="vector">P1.00</text>
-<text x="14.097" y="4.52525" size="0.5" layer="21" font="vector">P1.03</text>
-<text x="14.097" y="5.618996875" size="0.5" layer="21" font="vector">P1.01</text>
-<text x="14.097" y="6.712746875" size="0.5" layer="21" font="vector">P1.02</text>
-<text x="14.097" y="7.806496875" size="0.5" layer="21" font="vector">SWDCLK</text>
-<text x="14.097" y="8.900246875" size="0.5" layer="21" font="vector">SWDIO</text>
-<text x="14.097" y="9.993996875" size="0.5" layer="21" font="vector">P1.04</text>
-<text x="14.097" y="11.08774375" size="0.5" layer="21" font="vector">P1.06</text>
-<text x="14.097" y="12.18149375" size="0.5" layer="21" font="vector">P0.09</text>
-<text x="14.097" y="13.27524375" size="0.5" layer="21" font="vector">P0.10</text>
-<text x="14.097" y="14.36899375" size="0.5" layer="21" font="vector">GND</text>
-<text x="3.182" y="12.183996875" size="0.5" layer="21" font="vector">P1.14</text>
-<text x="3.182" y="11.090246875" size="0.5" layer="21" font="vector">P1.12</text>
-<text x="3.182" y="9.996496875" size="0.5" layer="21" font="vector">P0.25</text>
-<text x="3.182" y="8.902746875" size="0.5" layer="21" font="vector">P0.11</text>
-<text x="3.182" y="7.809" size="0.5" layer="21" font="vector">P1.08</text>
-<text x="3.182" y="6.71525" size="0.5" layer="21" font="vector">P0.27</text>
-<text x="3.182" y="5.6215" size="0.5" layer="21" font="vector">P0.08</text>
-<text x="3.182" y="4.52775" size="0.5" layer="21" font="vector">P0.06</text>
-<text x="3.182" y="3.434" size="0.5" layer="21" font="vector">P0.26</text>
-<text x="8.005309375" y="12.20899375" size="0.5" layer="21" font="vector">P1.07</text>
-<text x="8.005309375" y="11.115246875" size="0.5" layer="21" font="vector">P1.05</text>
-<text x="7.922003125" y="10.021496875" size="0.5" layer="21" font="vector">P0.24</text>
-<text x="7.922003125" y="8.927746875" size="0.5" layer="21" font="vector">P0.20</text>
-<text x="8.005309375" y="7.833996875" size="0.5" layer="21" font="vector">P0.17</text>
-<text x="8.005309375" y="6.740246875" size="0.5" layer="21" font="vector">P0.15</text>
-<text x="8.005309375" y="5.659" size="0.5" layer="21" font="vector">P0.14</text>
-<text x="8.005309375" y="4.55275" size="0.5" layer="21" font="vector">P0.13</text>
-<text x="8.005309375" y="3.459" size="0.5" layer="21" font="vector">P0.16</text>
-<rectangle x1="0.79700625" y1="0.774" x2="1.232003125" y2="15.244003125" layer="21"/>
-<rectangle x1="0.797" y1="14.889" x2="2.46699375" y2="15.339003125" layer="21"/>
-<rectangle x1="0.797" y1="0.774" x2="10.826996875" y2="1.214" layer="21"/>
-<rectangle x1="3.3969875" y1="14.894" x2="12.582" y2="15.354" layer="21"/>
-<rectangle x1="12.052" y1="9.934" x2="12.582003125" y2="15.354" layer="21"/>
-<text x="0" y="0" size="1.27" layer="25" font="vector">&gt;NAME</text>
-<text x="0" y="-1.524" size="1.27" layer="27" font="vector">&gt;VALUE</text>
+<smd name="P0.13" x="38.876978125" y="4.783990625" dx="0.7" dy="0.999996875" layer="1" rot="R270"/>
+<smd name="P0.15" x="38.876978125" y="6.9839875" dx="0.7" dy="0.999996875" layer="1" rot="R270"/>
+<smd name="P0.14" x="38.876978125" y="5.8839875" dx="0.7" dy="0.999996875" layer="1" rot="R270"/>
+<smd name="P0.20" x="38.876978125" y="9.18400625" dx="0.6" dy="0.999996875" layer="1" rot="R270"/>
+<smd name="P1.05" x="38.876978125" y="11.383978125" dx="0.7" dy="0.999996875" layer="1" rot="R270"/>
+<smd name="P1.07" x="38.876978125" y="12.484" dx="0.7" dy="0.999996875" layer="1" rot="R270"/>
+<smd name="P0.24" x="38.876978125" y="10.28398125" dx="0.6" dy="0.999996875" layer="1" rot="R270"/>
+<smd name="P0.17" x="38.876978125" y="8.084009375" dx="0.7" dy="0.999996875" layer="1" rot="R270"/>
+<smd name="P0.26" x="30.376996875" y="3.68399375" dx="0.7" dy="0.999996875" layer="1" rot="R270"/>
+<smd name="P0.06" x="30.376996875" y="4.783990625" dx="0.7" dy="0.999996875" layer="1" rot="R270"/>
+<smd name="P0.27" x="30.376996875" y="6.9839875" dx="0.7" dy="0.999996875" layer="1" rot="R270"/>
+<smd name="P0.08" x="30.376996875" y="5.8839875" dx="0.7" dy="0.999996875" layer="1" rot="R270"/>
+<smd name="P0.11" x="30.376996875" y="9.18400625" dx="0.7" dy="0.999996875" layer="1" rot="R270"/>
+<smd name="P1.12" x="30.376996875" y="11.383978125" dx="0.7" dy="0.999996875" layer="1" rot="R270"/>
+<smd name="P1.14" x="30.376996875" y="12.484" dx="0.7" dy="0.999996875" layer="1" rot="R270"/>
+<smd name="P0.25" x="30.376996875" y="10.28398125" dx="0.7" dy="0.999996875" layer="1" rot="R270"/>
+<smd name="P1.08" x="30.376996875" y="8.084009375" dx="0.7" dy="0.999996875" layer="1" rot="R270"/>
+<smd name="GND1" x="40.977" y="1.483996875" dx="0.7" dy="0.899996875" layer="1" rot="R90"/>
+<smd name="P0.12" x="32.426978125" y="0.284" dx="0.7" dy="0.899996875" layer="1"/>
+<smd name="D-" x="39.026990625" y="0.284" dx="0.7" dy="0.899996875" layer="1"/>
+<smd name="P0.07" x="30.227009375" y="0.284" dx="0.7" dy="0.899996875" layer="1"/>
+<smd name="D+" x="40.1269875" y="0.284" dx="0.7" dy="0.899996875" layer="1"/>
+<smd name="VDD_NRF" x="29.126984375" y="0.284" dx="0.7" dy="0.899996875" layer="1"/>
+<smd name="P1.09" x="31.32698125" y="0.284" dx="0.7" dy="0.899996875" layer="1"/>
+<smd name="P0.22" x="40.977" y="2.583996875" dx="0.7" dy="0.899996875" layer="1" rot="R90"/>
+<smd name="P1.00" x="40.977" y="3.68399375" dx="0.7" dy="0.899996875" layer="1" rot="R90"/>
+<smd name="P1.03" x="40.977" y="4.783990625" dx="0.7" dy="0.899996875" layer="1" rot="R90"/>
+<smd name="P0.30" x="28.277" y="4.783990625" dx="0.7" dy="0.899996875" layer="1" rot="R270"/>
+<smd name="P0.04" x="28.277" y="2.583996875" dx="0.7" dy="0.899996875" layer="1" rot="R270"/>
+<smd name="P0.31" x="28.277" y="3.68399375" dx="0.7" dy="0.899996875" layer="1" rot="R270"/>
+<smd name="P0.05" x="28.277" y="1.483996875" dx="0.7" dy="0.899996875" layer="1" rot="R270"/>
+<smd name="P0.29" x="28.277" y="5.8839875" dx="0.7" dy="0.899996875" layer="1" rot="R270"/>
+<smd name="VBUS" x="37.92699375" y="0.284" dx="0.7" dy="0.899996875" layer="1"/>
+<smd name="P0.21" x="34.627" y="0.284" dx="0.7" dy="0.899996875" layer="1"/>
+<smd name="P0.23" x="33.526975" y="0.284" dx="0.7" dy="0.899996875" layer="1"/>
+<smd name="P0.18" x="36.82699375" y="0.284" dx="0.7" dy="0.899996875" layer="1"/>
+<smd name="P0.19" x="35.726996875" y="0.284" dx="0.7" dy="0.899996875" layer="1"/>
+<smd name="P0.09" x="40.977" y="12.484" dx="0.7" dy="0.899996875" layer="1" rot="R90"/>
+<smd name="P1.02" x="40.977" y="6.9839875" dx="0.7" dy="0.899996875" layer="1" rot="R90"/>
+<smd name="P1.01" x="40.977" y="5.8839875" dx="0.7" dy="0.899996875" layer="1" rot="R90"/>
+<smd name="SWDIO" x="40.977" y="9.18400625" dx="0.7" dy="0.899996875" layer="1" rot="R90"/>
+<smd name="P1.04" x="40.977" y="10.28398125" dx="0.7" dy="0.899996875" layer="1" rot="R90"/>
+<smd name="P1.06" x="40.977" y="11.383978125" dx="0.7" dy="0.899996875" layer="1" rot="R90"/>
+<smd name="SWDCLK" x="40.977" y="8.083984375" dx="0.7" dy="0.899996875" layer="1" rot="R90"/>
+<smd name="P0.02" x="28.277" y="8.083984375" dx="0.7" dy="0.899996875" layer="1" rot="R270"/>
+<smd name="P0.28" x="28.277" y="6.9839875" dx="0.7" dy="0.899996875" layer="1" rot="R270"/>
+<smd name="P1.15" x="28.277" y="10.28400625" dx="0.7" dy="0.899996875" layer="1" rot="R270"/>
+<smd name="P1.10" x="28.277" y="12.484" dx="0.7" dy="0.899996875" layer="1" rot="R270"/>
+<smd name="P1.11" x="28.277" y="13.584" dx="0.7" dy="0.899996875" layer="1" rot="R270"/>
+<smd name="P1.13" x="28.277" y="11.383978125" dx="0.7" dy="0.899996875" layer="1" rot="R270"/>
+<smd name="P0.03" x="28.277" y="9.18400625" dx="0.7" dy="0.899996875" layer="1" rot="R270"/>
+<smd name="P0.16" x="38.876978125" y="3.68399375" dx="0.7" dy="0.999996875" layer="1" rot="R270"/>
+<smd name="GND" x="28.277" y="14.683996875" dx="0.7" dy="0.899996875" layer="1" rot="R270"/>
+<smd name="GND2" x="40.977" y="14.683996875" dx="0.7" dy="0.899996875" layer="1" rot="R90"/>
+<smd name="P0.10" x="40.977" y="13.584" dx="0.7" dy="0.899996875" layer="1" rot="R90"/>
+<wire x1="27.877" y1="17.983990625" x2="41.377" y2="17.983990625" width="0.127" layer="51"/>
+<wire x1="41.377" y1="-0.016" x2="41.377" y2="17.983990625" width="0.127" layer="51"/>
+<wire x1="27.877" y1="-0.016" x2="41.377" y2="-0.016" width="0.127" layer="51"/>
+<wire x1="27.877" y1="-0.016" x2="27.877" y2="17.983990625" width="0.127" layer="51"/>
+<text x="38.882" y="16.989" size="0.55" layer="21">VER1.0</text>
+<text x="28.587" y="15.694" size="0.65" layer="21">HOLYIOT-18010-NRF52840</text>
+<text x="40.894" y="-2.54" size="1.016" layer="21">TOP VIEW</text>
+<text x="25.78836875" y="14.41399375" size="0.5" layer="21" font="vector">GND</text>
+<text x="25.019" y="12.319" size="0.5" layer="21" font="vector">P1.10</text>
+<text x="25.019" y="13.335" size="0.5" layer="21" font="vector">P1.11</text>
+<text x="25.038609375" y="11.132746875" size="0.5" layer="21" font="vector">P1.13</text>
+<text x="25.038609375" y="10.038996875" size="0.5" layer="21" font="vector">P1.15</text>
+<text x="24.872" y="8.945246875" size="0.5" layer="21" font="vector">P0.03</text>
+<text x="24.872" y="7.851496875" size="0.5" layer="21" font="vector">P0.02</text>
+<text x="24.872" y="6.75775" size="0.5" layer="21" font="vector">P0.28</text>
+<text x="24.872" y="5.664" size="0.5" layer="21" font="vector">P0.29</text>
+<text x="24.872" y="4.57025" size="0.5" layer="21" font="vector">P0.30</text>
+<text x="25.0386125" y="3.4765" size="0.5" layer="21" font="vector">P0.31</text>
+<text x="24.872" y="2.38275" size="0.5" layer="21" font="vector">P0.04</text>
+<text x="24.872" y="1.289003125" size="0.5" layer="21" font="vector">P0.05</text>
+<text x="28.9245" y="-0.696" size="0.5" layer="21" font="vector" rot="R270">VDD_nRF</text>
+<text x="30.018246875" y="-0.696" size="0.5" layer="21" font="vector" rot="R270">P0.07</text>
+<text x="31.111996875" y="-0.695996875" size="0.5" layer="21" font="vector" rot="R270">P1.09</text>
+<text x="32.205746875" y="-0.696" size="0.5" layer="21" font="vector" rot="R270">P0.12</text>
+<text x="33.299496875" y="-0.696" size="0.5" layer="21" font="vector" rot="R270">P0.23</text>
+<text x="34.393246875" y="-0.696" size="0.5" layer="21" font="vector" rot="R270">P0.21</text>
+<text x="35.486996875" y="-0.695996875" size="0.5" layer="21" font="vector" rot="R270">P0.19</text>
+<text x="36.58074375" y="-0.696" size="0.5" layer="21" font="vector" rot="R270">P0.18/nRESET</text>
+<text x="37.67449375" y="-0.696" size="0.5" layer="21" font="vector" rot="R270">VBUS</text>
+<text x="38.76824375" y="-0.696" size="0.5" layer="21" font="vector" rot="R270">D-</text>
+<text x="39.86199375" y="-0.695996875" size="0.5" layer="21" font="vector" rot="R270">D+</text>
+<text x="42.037" y="1.244" size="0.5" layer="21" font="vector">GND</text>
+<text x="42.037" y="2.33775" size="0.5" layer="21" font="vector">P0.22</text>
+<text x="42.037" y="3.4315" size="0.5" layer="21" font="vector">P1.00</text>
+<text x="42.037" y="4.52525" size="0.5" layer="21" font="vector">P1.03</text>
+<text x="42.037" y="5.618996875" size="0.5" layer="21" font="vector">P1.01</text>
+<text x="42.037" y="6.712746875" size="0.5" layer="21" font="vector">P1.02</text>
+<text x="42.037" y="7.806496875" size="0.5" layer="21" font="vector">SWDCLK</text>
+<text x="42.037" y="8.900246875" size="0.5" layer="21" font="vector">SWDIO</text>
+<text x="42.037" y="9.993996875" size="0.5" layer="21" font="vector">P1.04</text>
+<text x="42.037" y="11.08774375" size="0.5" layer="21" font="vector">P1.06</text>
+<text x="42.037" y="12.18149375" size="0.5" layer="21" font="vector">P0.09</text>
+<text x="42.037" y="13.27524375" size="0.5" layer="21" font="vector">P0.10</text>
+<text x="42.037" y="14.36899375" size="0.5" layer="21" font="vector">GND</text>
+<text x="31.122" y="12.183996875" size="0.5" layer="21" font="vector">P1.14</text>
+<text x="31.122" y="11.090246875" size="0.5" layer="21" font="vector">P1.12</text>
+<text x="31.122" y="9.996496875" size="0.5" layer="21" font="vector">P0.25</text>
+<text x="31.122" y="8.902746875" size="0.5" layer="21" font="vector">P0.11</text>
+<text x="31.122" y="7.809" size="0.5" layer="21" font="vector">P1.08</text>
+<text x="31.122" y="6.71525" size="0.5" layer="21" font="vector">P0.27</text>
+<text x="31.122" y="5.6215" size="0.5" layer="21" font="vector">P0.08</text>
+<text x="31.122" y="4.52775" size="0.5" layer="21" font="vector">P0.06</text>
+<text x="31.122" y="3.434" size="0.5" layer="21" font="vector">P0.26</text>
+<text x="35.945309375" y="12.20899375" size="0.5" layer="21" font="vector">P1.07</text>
+<text x="35.945309375" y="11.115246875" size="0.5" layer="21" font="vector">P1.05</text>
+<text x="35.862003125" y="10.021496875" size="0.5" layer="21" font="vector">P0.24</text>
+<text x="35.862003125" y="8.927746875" size="0.5" layer="21" font="vector">P0.20</text>
+<text x="35.945309375" y="7.833996875" size="0.5" layer="21" font="vector">P0.17</text>
+<text x="35.945309375" y="6.740246875" size="0.5" layer="21" font="vector">P0.15</text>
+<text x="35.945309375" y="5.659" size="0.5" layer="21" font="vector">P0.14</text>
+<text x="35.945309375" y="4.55275" size="0.5" layer="21" font="vector">P0.13</text>
+<text x="35.945309375" y="3.459" size="0.5" layer="21" font="vector">P0.16</text>
+<rectangle x1="28.73700625" y1="0.774" x2="29.172" y2="15.244" layer="21"/>
+<rectangle x1="28.737" y1="14.889" x2="30.40699375" y2="15.339" layer="21"/>
+<rectangle x1="28.737" y1="0.774" x2="38.76699375" y2="1.214" layer="21"/>
+<rectangle x1="31.3369875" y1="14.894" x2="40.522" y2="15.354" layer="21"/>
+<rectangle x1="39.992" y1="9.934" x2="40.522" y2="15.354" layer="21"/>
+<text x="27.94" y="0" size="1.27" layer="25" font="vector">&gt;NAME</text>
+<text x="27.94" y="-1.524" size="1.27" layer="27" font="vector">&gt;VALUE</text>
+<rectangle x1="26.67" y1="15.24" x2="42.545" y2="19.685" layer="41"/>
+<rectangle x1="26.67" y1="15.24" x2="42.545" y2="19.685" layer="42"/>
 </package>
 </packages>
 <symbols>
