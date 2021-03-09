@@ -211,11 +211,6 @@
 <wire x1="1.25" y1="1.25" x2="-1.25" y2="1.25" width="0" layer="20"/>
 <smd name="P$2" x="0" y="0" dx="5" dy="5" layer="16" roundness="100"/>
 </package>
-<package name="2.5MM_HOLE">
-<smd name="P$2" x="0" y="0" dx="3.1" dy="3.1" layer="1" roundness="100"/>
-<hole x="0" y="0" drill="2.5"/>
-<smd name="P$1" x="0" y="0" dx="3.1" dy="3.1" layer="16" roundness="100"/>
-</package>
 <package name="SMD-BUTTON">
 <smd name="B" x="3" y="1.875" dx="1" dy="0.75" layer="1"/>
 <smd name="A" x="-3" y="1.875" dx="1" dy="0.75" layer="1"/>
@@ -284,9 +279,6 @@
 <symbol name="2.5MM_ELONGATED">
 <pin name="P$1" x="-5.08" y="0" length="middle"/>
 </symbol>
-<symbol name="2.5MM_HOLE">
-<pin name="P$1" x="-5.08" y="0" length="middle"/>
-</symbol>
 <symbol name="SMD-BUTTON">
 <pin name="A" x="-12.7" y="5.08" length="middle"/>
 <pin name="B" x="-12.7" y="-2.54" length="middle"/>
@@ -338,21 +330,6 @@
 </gates>
 <devices>
 <device name="" package="2.5MM_ELONGATED">
-<connects>
-<connect gate="G$1" pin="P$1" pad="P$1 P$2"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-<deviceset name="2.5MM_HOLE">
-<gates>
-<gate name="G$1" symbol="2.5MM_HOLE" x="0" y="0"/>
-</gates>
-<devices>
-<device name="" package="2.5MM_HOLE">
 <connects>
 <connect gate="G$1" pin="P$1" pad="P$1 P$2"/>
 </connects>
@@ -9700,6 +9677,37 @@ Source: AVX .. aphvc.pdf</description>
 <wire x1="-2.45" y1="1.95" x2="2.45" y2="1.95" width="0.127" layer="21"/>
 <wire x1="-2.45" y1="-1.95" x2="2.45" y2="-1.95" width="0.127" layer="21"/>
 </package>
+<package name="SOIC8" urn="urn:adsk.eagle:footprint:16321/1">
+<description>&lt;b&gt;SOIC-8&lt;/b&gt; CASE 751-07&lt;p&gt;
+Source: http://www.onsemi.com/pub/Collateral/MC34164-D.PDF&lt;p&gt;
+&lt;b&gt;D (R-PDSO-G8)&lt;/b&gt;PLATIC SMALL-OUTLINE PACKAGE&lt;br&gt;
+Source: http://focus.ti.com/lit/ds/symlink/tlc27l2.pdf</description>
+<wire x1="2.4" y1="1.9" x2="2.4" y2="-1.4" width="0.2032" layer="21"/>
+<wire x1="2.4" y1="-1.4" x2="2.4" y2="-1.9" width="0.2032" layer="21"/>
+<wire x1="2.4" y1="-1.9" x2="-2.4" y2="-1.9" width="0.2032" layer="51"/>
+<wire x1="-2.4" y1="-1.9" x2="-2.4" y2="-1.4" width="0.2032" layer="21"/>
+<wire x1="-2.4" y1="-1.4" x2="-2.4" y2="1.9" width="0.2032" layer="21"/>
+<wire x1="-2.4" y1="1.9" x2="2.4" y2="1.9" width="0.2032" layer="51"/>
+<wire x1="2.4" y1="-1.4" x2="-2.4" y2="-1.4" width="0.2032" layer="21"/>
+<smd name="2" x="-0.635" y="-2.75" dx="0.6" dy="1.5" layer="1"/>
+<smd name="7" x="-0.635" y="2.75" dx="0.6" dy="1.5" layer="1"/>
+<smd name="1" x="-1.905" y="-2.75" dx="0.6" dy="1.5" layer="1"/>
+<smd name="3" x="0.635" y="-2.75" dx="0.6" dy="1.5" layer="1"/>
+<smd name="4" x="1.905" y="-2.75" dx="0.6" dy="1.5" layer="1"/>
+<smd name="8" x="-1.905" y="2.75" dx="0.6" dy="1.5" layer="1"/>
+<smd name="6" x="0.635" y="2.75" dx="0.6" dy="1.5" layer="1"/>
+<smd name="5" x="1.905" y="2.75" dx="0.6" dy="1.5" layer="1"/>
+<text x="-2.667" y="-1.905" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="3.937" y="-1.905" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+<rectangle x1="-2.15" y1="-3.1" x2="-1.66" y2="-2" layer="51"/>
+<rectangle x1="-0.88" y1="-3.1" x2="-0.39" y2="-2" layer="51"/>
+<rectangle x1="0.39" y1="-3.1" x2="0.88" y2="-2" layer="51"/>
+<rectangle x1="1.66" y1="-3.1" x2="2.15" y2="-2" layer="51"/>
+<rectangle x1="1.66" y1="2" x2="2.15" y2="3.1" layer="51"/>
+<rectangle x1="0.39" y1="2" x2="0.88" y2="3.1" layer="51"/>
+<rectangle x1="-0.88" y1="2" x2="-0.39" y2="3.1" layer="51"/>
+<rectangle x1="-2.15" y1="2" x2="-1.66" y2="3.1" layer="51"/>
+</package>
 </packages>
 <symbols>
 <symbol name="TP4056">
@@ -9732,6 +9740,21 @@ Dave.Calaway &lt;a href="https://goo.gl/Muy1Tr"&gt;Eagle Library&lt;/a&gt;</desc
 </gates>
 <devices>
 <device name="" package="SOT23-8">
+<connects>
+<connect gate="G$1" pin="!CHRG" pad="7"/>
+<connect gate="G$1" pin="!STDBY" pad="6"/>
+<connect gate="G$1" pin="BAT" pad="5"/>
+<connect gate="G$1" pin="CE" pad="8"/>
+<connect gate="G$1" pin="GND" pad="3"/>
+<connect gate="G$1" pin="PROG" pad="2"/>
+<connect gate="G$1" pin="TEMP" pad="1"/>
+<connect gate="G$1" pin="VCC" pad="4"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="SOI8" package="SOIC8">
 <connects>
 <connect gate="G$1" pin="!CHRG" pad="7"/>
 <connect gate="G$1" pin="!STDBY" pad="6"/>
@@ -14555,6 +14578,10 @@ CONN_06
 <text x="27.94" y="-1.524" size="1.27" layer="27" font="vector">&gt;VALUE</text>
 <rectangle x1="26.67" y1="15.24" x2="42.545" y2="19.685" layer="41"/>
 <rectangle x1="26.67" y1="15.24" x2="42.545" y2="19.685" layer="42"/>
+<circle x="29.21" y="17.78" radius="2.54" width="0.127" layer="46"/>
+<circle x="39.878" y="17.78" radius="2.54" width="0.127" layer="46"/>
+<wire x1="29.21" y1="20.32" x2="39.878" y2="20.32" width="0.127" layer="46"/>
+<wire x1="39.878" y1="15.24" x2="29.21" y2="15.24" width="0.127" layer="46"/>
 </package>
 </packages>
 <symbols>
@@ -14979,7 +15006,7 @@ USE AT YOUR OWN RISK!&lt;p&gt;
 <part name="U$64" library="Volume_V1" deviceset="2.5MM_ELONGATED" device=""/>
 <part name="U$65" library="Volume_V1" deviceset="2.5MM_ELONGATED" device=""/>
 <part name="U$67" library="Volume_V1" deviceset="2.5MM_ELONGATED" device=""/>
-<part name="U$66" library="Volume_V1" deviceset="2.5MM_HOLE" device=""/>
+<part name="U$66" library="Volume_V1" deviceset="2.5MM_ELONGATED" device=""/>
 <part name="U$62" library="Volume_V1" deviceset="SMD-BUTTON" device=""/>
 <part name="U$68" library="Volume_V1" deviceset="STAB-2U" device=""/>
 <part name="U$69" library="Volume_V1" deviceset="STAB-2U" device=""/>
