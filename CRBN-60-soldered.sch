@@ -17807,16 +17807,10 @@ Dave.Calaway &lt;a href="https://goo.gl/Muy1Tr"&gt;Eagle Library&lt;/a&gt;</desc
 <pinref part="ISO_ENTER" gate="G$1" pin="1"/>
 <pinref part="ENTER" gate="G$1" pin="1"/>
 <wire x1="416.56" y1="68.58" x2="416.56" y2="81.28" width="0.1524" layer="91"/>
-<wire x1="416.56" y1="111.76" x2="416.56" y2="76.2" width="0.1524" layer="91"/>
-<wire x1="416.56" y1="76.2" x2="416.56" y2="68.58" width="0.1524" layer="91"/>
+<wire x1="416.56" y1="111.76" x2="416.56" y2="68.58" width="0.1524" layer="91"/>
 <junction x="416.56" y="68.58"/>
 <pinref part="X5U_1" gate="G$1" pin="1"/>
-<wire x1="416.56" y1="76.2" x2="444.5" y2="76.2" width="0.1524" layer="91"/>
-<wire x1="444.5" y1="76.2" x2="444.5" y2="33.02" width="0.1524" layer="91"/>
-<junction x="416.56" y="76.2"/>
 <pinref part="R_SHIFT_1.75U_RIGHT" gate="G$1" pin="1"/>
-<wire x1="444.5" y1="33.02" x2="444.5" y2="20.32" width="0.1524" layer="91"/>
-<junction x="444.5" y="33.02"/>
 <pinref part="FN" gate="G$1" pin="1"/>
 <pinref part="R_CTRL_1.5U" gate="G$1" pin="1"/>
 <pinref part="1U_4" gate="G$1" pin="1"/>
@@ -17825,9 +17819,16 @@ Dave.Calaway &lt;a href="https://goo.gl/Muy1Tr"&gt;Eagle Library&lt;/a&gt;</desc
 <wire x1="406.4" y1="-25.4" x2="406.4" y2="-38.1" width="0.1524" layer="91"/>
 <wire x1="406.4" y1="-12.7" x2="406.4" y2="-2.54" width="0.1524" layer="91"/>
 <junction x="406.4" y="-12.7"/>
-<wire x1="406.4" y1="-2.54" x2="444.5" y2="-2.54" width="0.1524" layer="91"/>
-<wire x1="444.5" y1="-2.54" x2="444.5" y2="20.32" width="0.1524" layer="91"/>
-<junction x="444.5" y="20.32"/>
+<wire x1="406.4" y1="-2.54" x2="439.42" y2="-2.54" width="0.1524" layer="91"/>
+<wire x1="439.42" y1="-2.54" x2="439.42" y2="20.32" width="0.1524" layer="91"/>
+<wire x1="439.42" y1="20.32" x2="439.42" y2="33.02" width="0.1524" layer="91"/>
+<wire x1="439.42" y1="33.02" x2="439.42" y2="55.88" width="0.1524" layer="91"/>
+<wire x1="439.42" y1="33.02" x2="444.5" y2="33.02" width="0.1524" layer="91"/>
+<junction x="439.42" y="33.02"/>
+<wire x1="439.42" y1="20.32" x2="444.5" y2="20.32" width="0.1524" layer="91"/>
+<junction x="439.42" y="20.32"/>
+<wire x1="416.56" y1="68.58" x2="416.56" y2="55.88" width="0.1524" layer="91"/>
+<wire x1="416.56" y1="55.88" x2="439.42" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="IC3" gate="G$1" pin="P0.12"/>
