@@ -186,7 +186,7 @@
 <layer number="255" name="routoute" color="7" fill="1" visible="no" active="yes"/>
 </layers>
 <board>
-<fusionsync huburn="a.cGVyc29uYWw6dWUyZjhiMzhi" projecturn="a.cGVyc29uYWw6dWUyZjhiMzhiIzIwMjAxMDEwMzQxNDg0MzAx" f3durn="urn:adsk.wipprod:dm.lineage:ftLnUbcxSgCAcFjv9yPAJg" pcbguid="" lastpulledtime="" lastsyncedchangeguid="" latestrevisionid="" lastsyncedrevisionid="" lastboardhashguid="" lastpushedtime="" linktopcb3d="true"/>
+<fusionsync huburn="a.cGVyc29uYWw6dWUyZjhiMzhi" projecturn="a.cGVyc29uYWw6dWUyZjhiMzhiIzIwMjAxMDEwMzQxNDg0MzAx" f3durn="urn:adsk.wipprod:dm.lineage:ftLnUbcxSgCAcFjv9yPAJg" pcbguid="" lastpulledtime="" lastsyncedchangeguid="" latestrevisionid="" lastsyncedrevisionid="" lastboardhashguid="" lastpushedtime="" linktopcb3d="false"/>
 <plain>
 <text x="138.0998" y="12.75715" size="1.27" layer="26" rot="MR90">VREF</text>
 <text x="140.6652" y="12.52855" size="1.27" layer="26" rot="MR90">GND</text>
